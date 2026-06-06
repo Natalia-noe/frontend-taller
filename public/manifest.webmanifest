@@ -1,0 +1,17 @@
+{
+  "name": "AutoSOS — Gestión de Talleres",
+  "short_name": "AutoSOS",
+  "description": "Panel de gestión para talleres mecánicos con soporte offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1535",
+  "theme_color": "#4f46e5",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
